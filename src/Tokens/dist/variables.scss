@@ -1,0 +1,180 @@
+/**
+ * Do not edit directly
+ * Generated on Wed Mar 15 2023 15:36:45 GMT+0000 
+ */
+
+$colorTonePrimaryDark: rgba(0, 0, 0, 0.8);
+$colorToneDark: rgba(0, 0, 0, 0.56);
+$colorToneMid: rgba(0, 0, 0, 0.24);
+$colorToneLight: rgba(0, 0, 0, 0.16);
+$colorToneVeryLight: rgba(0, 0, 0, 0.08);
+$colorMonoPrimaryDark: #333333;
+$colorMonoDark: #7d7d7d;
+$colorMonoMid: #bdbdbd;
+$colorMonoLight: #dedede;
+$colorMonoVeryLight: #efefef;
+$colorMonoPrimaryLight: #fffefe;
+$colorMonoWarm: #faf6f4;
+$colorBlue100: #f2f3fd;
+$colorBlue200: #d4daf7;
+$colorBlue400: #4d66e0;
+$colorBlue500: #1039c1;
+$colorBlue600: #0c2b93;
+$colorGreen100: #eef8ee;
+$colorGreen200: #d9f3d8;
+$colorGreen400: #36aa32;
+$colorGreen500: #0d7912;
+$colorGreen600: #0a5c0e;
+$colorTeal100: #eef8f8;
+$colorTeal200: #b7e2e0;
+$colorTeal400: #0d9c95;
+$colorTeal500: #0a7e76;
+$colorTeal600: #08605a;
+$colorOrange100: #fff6eb;
+$colorOrange200: #ffe2cc;
+$colorOrange400: #ec6500;
+$colorOrange500: #d13800;
+$colorOrange600: #9f2b00;
+$colorPurple100: #f9f1f6;
+$colorPurple200: #f8d3f0;
+$colorPurple400: #a01b84;
+$colorPurple500: #901877;
+$colorPurple600: #7a1564;
+$colorRed100: #ffebef;
+$colorRed200: #fdced6;
+$colorRed400: #d3072a;
+$colorRed500: #b70624;
+$colorRed600: #a20520;
+$colorPink100: #fef2f8;
+$colorPink200: #ffcae0;
+$colorPink400: #d2286d;
+$colorPink500: #b82360;
+$colorPink600: #b82360;
+$colorYellow100: #fffbe5;
+$colorYellow200: #fff4b3;
+$colorYellow400: #feda00;
+$colorYellow500: #998300;
+$colorBrandPrimary: #b70624;
+$colorLightboxPrimary: rgba(51, 51, 51, 0.64);
+$mediaBreakXs: 360px;
+$mediaBreakSm: 578px;
+$mediaBreakMd: 768px;
+$mediaBreakLg: 1024px;
+$mediaBreakXl: 1280px;
+$mediaBreakXxl: 1440px;
+$mediaBreakXxxl: 1600px;
+$mediaBreakXxxxl: 1900px;
+$spacingXxxs: 0.25rem;
+$spacingXxs: 0.5rem;
+$spacingXs: 0.75rem;
+$spacingSm: 1rem;
+$spacingMd: 1.5rem;
+$spacingLg: 2rem;
+$spacingXl: 2.5rem;
+$spacingXxl: 3rem;
+$spacingXxxl: 3.5rem;
+
+$tokens: (
+  'color': (
+    'tone': (
+      'primary-dark': $colorTonePrimaryDark,
+      'dark': $colorToneDark,
+      'mid': $colorToneMid,
+      'light': $colorToneLight,
+      'very-light': $colorToneVeryLight,
+    ),
+    'mono': (
+      'primary-dark': $colorMonoPrimaryDark,
+      'dark': $colorMonoDark,
+      'mid': $colorMonoMid,
+      'light': $colorMonoLight,
+      'very-light': $colorMonoVeryLight,
+      'primary-light': $colorMonoPrimaryLight,
+      'warm': $colorMonoWarm,
+    ),
+    'blue': (
+      '100': $colorBlue100,
+      '200': $colorBlue200,
+      '400': $colorBlue400,
+      '500': $colorBlue500,
+      '600': $colorBlue600,
+    ),
+    'green': (
+      '100': $colorGreen100,
+      '200': $colorGreen200,
+      '400': $colorGreen400,
+      '500': $colorGreen500,
+      '600': $colorGreen600,
+    ),
+    'teal': (
+      '100': $colorTeal100,
+      '200': $colorTeal200,
+      '400': $colorTeal400,
+      '500': $colorTeal500,
+      '600': $colorTeal600,
+    ),
+    'orange': (
+      '100': $colorOrange100,
+      '200': $colorOrange200,
+      '400': $colorOrange400,
+      '500': $colorOrange500,
+      '600': $colorOrange600,
+    ),
+    'purple': (
+      '100': $colorPurple100,
+      '200': $colorPurple200,
+      '400': $colorPurple400,
+      '500': $colorPurple500,
+      '600': $colorPurple600,
+    ),
+    'red': (
+      '100': $colorRed100,
+      '200': $colorRed200,
+      '400': $colorRed400,
+      '500': $colorRed500,
+      '600': $colorRed600,
+    ),
+    'pink': (
+      '100': $colorPink100,
+      '200': $colorPink200,
+      '400': $colorPink400,
+      '500': $colorPink500,
+      '600': $colorPink600,
+    ),
+    'yellow': (
+      '100': $colorYellow100,
+      '200': $colorYellow200,
+      '400': $colorYellow400,
+      '500': $colorYellow500,
+    ),
+    'brand': (
+      'primary': $colorBrandPrimary,
+    ),
+    'lightbox': (
+      'primary': $colorLightboxPrimary,
+    ),
+  ),
+  'media': (
+    'break': (
+      'xs': $mediaBreakXs,
+      'sm': $mediaBreakSm,
+      'md': $mediaBreakMd,
+      'lg': $mediaBreakLg,
+      'xl': $mediaBreakXl,
+      'xxl': $mediaBreakXxl,
+      'xxxl': $mediaBreakXxxl,
+      'xxxxl': $mediaBreakXxxxl,
+    ),
+  ),
+  'spacing': (
+    'xxxs': $spacingXxxs,
+    'xxs': $spacingXxs,
+    'xs': $spacingXs,
+    'sm': $spacingSm,
+    'md': $spacingMd,
+    'lg': $spacingLg,
+    'xl': $spacingXl,
+    'xxl': $spacingXxl,
+    'xxxl': $spacingXxxl,
+  ),
+);

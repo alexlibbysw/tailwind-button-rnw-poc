@@ -1,0 +1,77 @@
+/**
+ * Do not edit directly
+ * Generated on Tue Oct 11 2022 10:01:58 GMT+0100
+ */
+
+declare module '@slimming-world/ui-library-tokens' {
+  export const ColorTonePrimaryDark: string;
+  export const ColorToneDark: string;
+  export const ColorToneMid: string;
+  export const ColorToneLight: string;
+  export const ColorToneVeryLight: string;
+  export const ColorMonoPrimaryDark: string;
+  export const ColorMonoDark: string;
+  export const ColorMonoMid: string;
+  export const ColorMonoLight: string;
+  export const ColorMonoVeryLight: string;
+  export const ColorMonoPrimaryLight: string;
+  export const ColorMonoWarm: string;
+  export const ColorBlue100: string;
+  export const ColorBlue200: string;
+  export const ColorBlue400: string;
+  export const ColorBlue500: string;
+  export const ColorBlue600: string;
+  export const ColorGreen100: string;
+  export const ColorGreen200: string;
+  export const ColorGreen400: string;
+  export const ColorGreen500: string;
+  export const ColorGreen600: string;
+  export const ColorTeal100: string;
+  export const ColorTeal200: string;
+  export const ColorTeal400: string;
+  export const ColorTeal500: string;
+  export const ColorTeal600: string;
+  export const ColorOrange100: string;
+  export const ColorOrange200: string;
+  export const ColorOrange400: string;
+  export const ColorOrange500: string;
+  export const ColorOrange600: string;
+  export const ColorPurple100: string;
+  export const ColorPurple200: string;
+  export const ColorPurple400: string;
+  export const ColorPurple500: string;
+  export const ColorPurple600: string;
+  export const ColorRed100: string;
+  export const ColorRed200: string;
+  export const ColorRed400: string;
+  export const ColorRed500: string;
+  export const ColorRed600: string;
+  export const ColorPink100: string;
+  export const ColorPink200: string;
+  export const ColorPink400: string;
+  export const ColorPink500: string;
+  export const ColorPink600: string;
+  export const ColorYellow100: string;
+  export const ColorYellow200: string;
+  export const ColorYellow400: string;
+  export const ColorYellow500: string;
+  export const ColorBrandPrimary: string;
+  export const ColorLightboxPrimary: string;
+  export const MediaBreakXs: string;
+  export const MediaBreakSm: string;
+  export const MediaBreakMd: string;
+  export const MediaBreakLg: string;
+  export const MediaBreakXl: string;
+  export const MediaBreakXxl: string;
+  export const MediaBreakXxxl: string;
+  export const MediaBreakXxxxl: string;
+  export const SpacingXxxs: string;
+  export const SpacingXxs: string;
+  export const SpacingXs: string;
+  export const SpacingSm: string;
+  export const SpacingMd: string;
+  export const SpacingLg: string;
+  export const SpacingXl: string;
+  export const SpacingXxl: string;
+  export const SpacingXxxl: string;
+}

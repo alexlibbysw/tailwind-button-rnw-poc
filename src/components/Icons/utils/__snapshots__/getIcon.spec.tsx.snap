@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getIcon() the function should return the expected icon for icon-body-magic 1`] = `<IconBodyMagic />`;
+
+exports[`getIcon() the function should return the expected icon for icon-food-optimising 1`] = `<IconFoodOptimising />`;
+
+exports[`getIcon() the function should return the expected icon for icon-free-food 1`] = `<IconFreeFood />`;
+
+exports[`getIcon() the function should return the expected icon for icon-healthy-extra-a 1`] = `<IconHealthyExtraA />`;
+
+exports[`getIcon() the function should return the expected icon for icon-healthy-extra-b 1`] = `<IconHealthyExtraB />`;
+
+exports[`getIcon() the function should return the expected icon for icon-slim-for-life 1`] = `<IconSlimForLife />`;
+
+exports[`getIcon() the function should return the expected icon for icon-support 1`] = `<IconSupport />`;
+
+exports[`getIcon() the function should return the expected icon for icon-syns 1`] = `<IconSyns />`;
